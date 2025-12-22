@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Oh! Asmara",
+  "base_artist": "Kobo Kanaeru",
+  "createdAt": "2025-12-22T08:25:57.805906Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Oh! Asmara",
+      "artist": "Kobo Kanaeru",
+      "has_synced": true,
+      "path": "select/01_Oh!_Asmara_Kobo_Kanaeru.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Oh Asmara",
+      "artist": "Hedi Yunus, Andezzz",
+      "has_synced": false,
+      "path": "select/02_Oh_Asmara_Hedi_Yunus,_Andezzz.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Oh! Asmara （Instrumental）",
+      "artist": "Kobo Kanaeru",
+      "has_synced": false,
+      "path": "select/03_Oh!_Asmara_(Instrumental)_Kobo_Kanaeru.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Oh! Asmara",
+      "artist": "Piyodechu",
+      "has_synced": false,
+      "path": "select/04_Oh!_Asmara_Piyodechu.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Oh! Asmara",
+      "artist": "Kobo Kanaeru",
+      "has_synced": false,
+      "path": "select/pl_01_Oh!_Asmara_Kobo_Kanaeru.txt"
+    }
+  ]
+}
